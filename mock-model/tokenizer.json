@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "WordLevel",
+    "vocab": {"[UNK]": 0, "[PAD]": 1, "Hello": 2, "world": 3, "Paris": 4, ".": 5},
+    "unk_token": "[UNK]"
+  }
+}

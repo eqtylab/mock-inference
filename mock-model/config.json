@@ -1,0 +1,8 @@
+{
+  "model_type": "mock_transformer",
+  "architectures": ["MockForCausalLM"],
+  "hidden_size": 8,
+  "num_hidden_layers": 2,
+  "vocab_size": 6,
+  "mock": true
+}
